@@ -29,3 +29,4 @@ jobs:
           cd project
           python manage.py test
           
+# update for testing workflow
